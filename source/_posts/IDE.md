@@ -1,6 +1,8 @@
 ---
-title: IDE
-date: 2020-10-15 14:38:17
+title: IDE--悬浮提示
+date: 2021-01-28 19:46:17
+excerpt: 实现自定义语言的IDE之悬停提示，提供开发过程代码提示功能。
+category: 自己实现一个IDE
 tags:
 ---
 
@@ -47,10 +49,6 @@ tags:
 
 
 ## 语法提示的流程
-
-
-
-http://gitlab.alibaba-inc.com/shuaiming.jsm/gs-lsp-vscode/merge_requests/1142406/diffs?view=parallel
 
 
 
